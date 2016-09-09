@@ -1,4 +1,4 @@
-ama.rianobrian.github.io
+# ama.rianobrian.github.io
 
 # Used to be called *cuddly-octo-potato*.
 
